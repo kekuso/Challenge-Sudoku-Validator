@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node ./tests/Sudoku.spec.js | tap-spec"
   },
-  "engine":{
+  "engine": {
     "node": "^5.0.0"
   },
   "author": "Sean Nakamura",
